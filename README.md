@@ -18,6 +18,12 @@
   - Essa abordagem também evita recomputações e garante que cada subproblema seja resolvido uma única vez.
 
 - **Assert para Equivalência dos Resultados:**
-  - Após a execução das duas versões, um comando `assert` compara os resultados finais, garantindo que ambas as implementações produzem o mesmo valor ótimo de falta, conforme exigido no problema.
+  - Após a execução das duas versões, um comando `assert` compara os resultados finais, garantindo que ambas as implementações produzem o mesmo valor ótimo de falta.
 
-Essas estruturas asseguram que o controle de estoque simulado seja eficiente, flexível para ajustes de parâmetros e adequado para analisar diferentes cenários de demanda e reposição de insumos.
+# **Integrantes do grupo**
+
+Estevam Melo RM555124 
+Eduardo Lima RM554804 
+Henrique Lomaski RM555351 
+Guilherme Ulacco RM558418 
+Matheus Hostim RM556517
