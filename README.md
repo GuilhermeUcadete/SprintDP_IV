@@ -2,9 +2,9 @@
 
 ## Explicação das Estruturas e Algoritmos Utilizados
 
-- **Programação Dinâmica (PD):**
+- **Dynammic Programming (DP):**
   - Utilizada para modelar o consumo e reposição diária de insumos, buscando minimizar a quantidade de produto faltante ao longo de vários dias.
-  - Cada estado da PD é definido pelo dia atual e pelo estoque do insumo disponível naquele dia.  
+  - Cada estado da DP é definido pelo dia atual e pelo estoque do insumo disponível naquele dia.  
   - As decisões consistem em escolher quanto repor de insumo a cada dia, considerando os limites do estoque.
   - A função de transição determina o estoque do próximo dia com base na reposição e no consumo realizado.
   - A função objetivo acumula as faltas de insumo em cada dia, buscando uma estratégia ótima para reposição.
